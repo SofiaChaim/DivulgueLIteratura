@@ -1,0 +1,135 @@
+.back1 {
+    background-color: rgb(148, 78, 46);
+    letter-spacing: -2px;
+}
+a {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid rgb(185, 105, 68);
+    border-radius: 5px;
+    background-color:rgb(185, 105, 68);
+    padding: 5px 5px 5px 5px;
+}
+.h1suspense{
+    font-size: 50px;
+}
+.imgnormal {
+    border-radius: 0px;
+    border: dotted;
+    border-color: rgb(185, 105, 68);
+}
+.botao:hover {
+    background: coral;
+    text-shadow: 4px 4px 4px rgb(0, 0, 0);
+}
+.table2 {
+    margin-left: 10% ;
+    font-family: "Playball", cursive;
+}
+.nomeautor {
+    font-family: "Playball", cursive;
+    font-size: 20px;
+}
+img {
+    border-radius: 90%;
+}
+h1, h2, h3 {
+    font-family: "Parisienne", cursive;
+}
+h2, h3 {
+    color:rgb(63, 22, 6)
+}
+.fotoborda {
+    border: dotted;
+    color: rgb(185, 105, 68)
+}
+.h1maior {
+    font-size: 300%;
+    text-align: center;
+    color: rgb(117, 51, 21);
+}
+.h1maior {
+    border: 5px 5px 5px 5px;
+    border-color: rgb(63, 22, 6);
+}
+.h3centro {
+    text-align: center;
+    color: rgb(117, 51, 21)
+}
+.div1 {
+    background-image: url(estrelas.avif);
+    text-align: center;
+}
+.div2 {
+    background-color:rgb(148, 78, 46);
+}
+.diretrizes {
+    font-size: 60px ;
+    display: inline-block;
+}
+.diretrizes {
+    font-size: 50px;
+}
+.paragraph1 { 
+    border: 3px dotted rgb(148, 78, 46) ;
+}
+h3 {
+    font-size: 30px;
+}
+.faraonica {
+    background-image: url(estrelas.avif);
+}
+.lista1 {
+    
+    list-style: none;
+}
+.lista1 li::before {
+    content: "✏"
+}
+ul {
+    font-size: 20px;
+}
+.table1 {
+    margin: 0 auto;
+}
+.imgautor {
+    border: groove;
+    border-color: rgb(185, 105, 68);
+}
+.div3 {
+    background-image: url(estrelas.avif)
+}
+.tabelatexto {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(170, 107, 78) ;
+    text-decoration: underline rgb(255, 171, 116);
+    color:rgb(0, 0, 0);
+}
+.botao2:hover {
+    background: coral;
+    text-shadow: 4px 4px 4px rgb(0, 0, 0);
+}
+.botao2 {
+    display: inline-block;
+    text-align: center;
+}
+.diva {
+    text-align: center;
+}
+.divonica {
+    background-image: url(estrelas.avif);
+}
+.p1 {
+    border: inset;
+    border-color: rgb(170, 107, 78) ;
+}
+fieldset {
+    border: 2px dotted;
+    border-radius: 3%;
+    color: rgb(148, 78, 46) ;
+}
+input {
+    color:rgb(102, 51, 30);
+}
+
